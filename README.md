@@ -15,7 +15,7 @@ Here is [my link](https://www.tinkercad.com/things/22eWwzy6MDD) to it.
 if you wanna run it on arduino board. I have Provided the .ino file as well.
 
 # Code Logic:
- The Code and the IDEA is originally created by me. So, there maybe some bugs or you may feel improvement in tune.
+I had not visited any blog or tutorial for this project. I suddenly got the Idea of making such a thing and thought of the code myself. So, there may be some bugs, or you may feel an improvement in tune.
  
  The idea is that:
  
