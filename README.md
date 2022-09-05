@@ -19,13 +19,13 @@ I had not visited any blog or tutorial for this project. I suddenly got the Idea
  
  The idea is that:
  
- piezo has following as function to produce sound:
+ piezo has the following function to produce sound:
  ```
  tone(pin, frequency, duration)
  ```
  And in music we have a particular frequency for a particular note
  
- So, I created a function for each some basic notes like sa ,re , Ni' , ga used in birthday tune.
+ So, I created a function for each of some introductory notes like sa, re, Ni', and ga(Indian musical notes) used in birthday tune.
  
  ```
   void sa(int t){
@@ -87,7 +87,7 @@ and then, we have notes for birthday tune:
 
 ![image](https://user-images.githubusercontent.com/72307020/188279813-1e1900e1-cf84-4928-86a7-89b0a6a4632f.png)
 
-implementing above notes with a proper delay in between buzzer sounds gives me this birthday tune.
+implementing the above notes with a proper delay between buzzer sounds gives me this birthday tune.
 
 ```
 void loop()
